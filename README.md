@@ -47,8 +47,8 @@
 - 실험 데이터 복구하기 (RESTORE)
 
 #### 2016.01.26
-- 숫자 게임 (NUMBERGAME)
-- 블록 게임 (BLOCKG)
+- 숫자 게임 (NUMBERGAME) - 김동환
+- 블록 게임 (BLOCKGAME) -  장재형
 
 #### 2016.02.02
 - 회전초밥 (SUSHI)
